@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/95danlos/todoApp/blob/master/screenshots/Screenshot_20191128-165654.png | width=100)
+![](https://github.com/95danlos/todoApp/blob/master/screenshots/Screenshot_20191128-165654.png)
 
 <br /> 
 
