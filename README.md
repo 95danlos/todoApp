@@ -1,5 +1,7 @@
 # todoApp
 
+Uses Flutter, cloud firestore, firebase auth and google sign in
+
 
 <img src="https://github.com/95danlos/todoApp/blob/master/screenshots/Screenshot_20191128-165654.png" width="240">
 <br /> 
